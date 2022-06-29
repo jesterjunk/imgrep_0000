@@ -4,6 +4,12 @@
     3000x3000
     <br>
     <br>
+numbers in round braces
+<br>
+were selected by
+<br>
+CraftingInC
+    <br>
 </p>
 <div align="middle">
 <table>
@@ -13,13 +19,13 @@
 </tr>
 <tr></tr>
 <tr>
-    <td align="middle"><h4><strong>02</h4><a href="https://github.com/jesterjunk/imgrep_0000/raw/master/CraftingInC%20avatars/Set-01/02.png" target="_blank"><img width="192px" src="https://raw.githubusercontent.com/jesterjunk/imgrep_0000/master/CraftingInC%20avatars/Set-01/tn/02_tn.png"></a><br><br></td>
+    <td align="middle"><h4><strong>(02)</h4><a href="https://github.com/jesterjunk/imgrep_0000/raw/master/CraftingInC%20avatars/Set-01/02.png" target="_blank"><img width="192px" src="https://raw.githubusercontent.com/jesterjunk/imgrep_0000/master/CraftingInC%20avatars/Set-01/tn/02_tn.png"></a><br><br></td>
     <td align="middle"><h4><strong>03</h4><a href="https://github.com/jesterjunk/imgrep_0000/raw/master/CraftingInC%20avatars/Set-01/03.png" target="_blank"><img width="192px" src="https://raw.githubusercontent.com/jesterjunk/imgrep_0000/master/CraftingInC%20avatars/Set-01/tn/03_tn.png"></a><br><br></td>
 </tr>
 <tr></tr>
 <tr>
-    <td align="middle"><h4><strong>04</h4><a href="https://github.com/jesterjunk/imgrep_0000/raw/master/CraftingInC%20avatars/Set-01/04.png" target="_blank"><img width="192px" src="https://raw.githubusercontent.com/jesterjunk/imgrep_0000/master/CraftingInC%20avatars/Set-01/tn/04_tn.png"></a><br><br></td>
-    <td align="middle"><h4><strong>05</h4><a href="https://github.com/jesterjunk/imgrep_0000/raw/master/CraftingInC%20avatars/Set-01/05.png" target="_blank"><img width="192px" src="https://raw.githubusercontent.com/jesterjunk/imgrep_0000/master/CraftingInC%20avatars/Set-01/tn/05_tn.png"></a><br><br></td>
+    <td align="middle"><h4><strong>(04)</h4><a href="https://github.com/jesterjunk/imgrep_0000/raw/master/CraftingInC%20avatars/Set-01/04.png" target="_blank"><img width="192px" src="https://raw.githubusercontent.com/jesterjunk/imgrep_0000/master/CraftingInC%20avatars/Set-01/tn/04_tn.png"></a><br><br></td>
+    <td align="middle"><h4><strong>(05)</h4><a href="https://github.com/jesterjunk/imgrep_0000/raw/master/CraftingInC%20avatars/Set-01/05.png" target="_blank"><img width="192px" src="https://raw.githubusercontent.com/jesterjunk/imgrep_0000/master/CraftingInC%20avatars/Set-01/tn/05_tn.png"></a><br><br></td>
 </tr>
 <tr></tr>
 <tr>
