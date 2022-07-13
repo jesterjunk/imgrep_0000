@@ -1,6 +1,12 @@
 <div align="middle">
 <table>
 <tr>
+    <th align="middle">scale<br>resolution</th>
+    <th align="middle">circle</th>
+    <th align="middle">square</th>
+</tr>
+<tr></tr>
+<tr>
     <td align="middle">x1<br>80x80</td>
     <td align="middle"><a href="https://github.com/jesterjunk/imgrep_0000/raw/master/CraftingInC%20avatars/Set-02/CiC_Icon_v00_x1_80x80_circle.png" target="_blank"><img height="80px" src="https://raw.githubusercontent.com/jesterjunk/imgrep_0000/master/CraftingInC%20avatars/Set-02/CiC_Icon_v00_x1_80x80_circle.png"></a></td>
     <td align="middle"><a href="https://github.com/jesterjunk/imgrep_0000/raw/master/CraftingInC%20avatars/Set-02/CiC_Icon_v00_x1_80x80_square.png" target="_blank"><img height="80px" src="https://raw.githubusercontent.com/jesterjunk/imgrep_0000/master/CraftingInC%20avatars/Set-02/CiC_Icon_v00_x1_80x80_square.png"></a></td>
